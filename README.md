@@ -1,2 +1,2 @@
 # py-100-days
-100 days of python
+100 days of python course tracker

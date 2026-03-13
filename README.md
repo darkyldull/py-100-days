@@ -18,7 +18,7 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 6 | Functions & Karel | Reeborg's Maze | ✅ | functions, right-hand rule maze solver |
 | 7 | Hangman | Hangman | ✅ | while loops, string building, modular files |
 | 8 | Function Parameters & Caesar Cipher | Caesar Cipher | ✅ | functions with params, modulo wrapping, encode/decode |
-| 9 | | | | |
+| 9 | Dictionaries, Nesting and the Secret Auction | Secret Auction | ✅ | dicts, iteration, finding max value |
 | 10 | | | | |
 
 ## Notes

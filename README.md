@@ -19,7 +19,12 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 7 | Hangman | Hangman | ✅ | while loops, string building, modular files |
 | 8 | Function Parameters & Caesar Cipher | Caesar Cipher | ✅ | functions with params, modulo wrapping, encode/decode |
 | 9 | Dictionaries, Nesting and the Secret Auction | Secret Auction | ✅ | dicts, iteration, finding max value |
-| 10 | | | | |
+| 10 | Functions with Outputs | Calculator | ✅ | return values, functions as dict values, recursion |
+| 11 | | | | |
+| 12 | | | | |
+| 13 | | | | |
+| 14 | | | | |
+| 15 | | | | |
 
 ## Notes
 

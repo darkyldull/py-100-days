@@ -15,8 +15,8 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 3 | Control Flow & Logical Operators | Treasure Island | ✅ | if/elif/else branching |
 | 4 | Randomisation & Lists | Rock Paper Scissors | ✅ | random, lists, int conversion |
 | 5 | Loops | Password Generator | ✅ | for loops, range, shuffle, list ops |
-| 6 | Functions & Karel | | 🔄 | |
-| 7 | | | | |
+| 6 | Functions & Karel | Reeborg's Maze | ✅ | functions, right-hand rule maze solver |
+| 7 | Hangman | Hangman | ✅ | while loops, string building, modular files |
 | 8 | | | | |
 | 9 | | | | |
 | 10 | | | | |

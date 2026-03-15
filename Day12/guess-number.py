@@ -1,13 +1,3 @@
-# print("Welcome to the Number Guessing Game!")
-# print("I'm thinking of a number between 1 and 100.")
-# print("Choose a difficulty. Type 'easy' or hard: ")
-# print("You have X attempts remaining to guess the number.")
-# print("Make a guess: ")
-# print("Too low")
-# print("Too high")
-# print("You got it! The answer was X")
-
-
 import random
 
 def get_number():
@@ -45,16 +35,15 @@ def game_start():
     print("Welcome to the Number Guessing Game!")
     print("I'm thinking of a number between 1 and 100.")
     actual_number = get_number()
-    print(actual_number)
     difficulty = input("Choose a difficulty. Type 'easy' or hard: ")
     tries = set_tries(difficulty)
     game_over = False
     while not game_over:
         guess = guess_number()
         tries, game_over = check_guess(tries, guess, actual_number)
-        if tries == 0:
+        if tries == 0 and not game_over:
             game_over = True
-            print(f"You lost, the number was {guess}")
+            print(f"You lost, the number was {actual_number}")
     
 
     

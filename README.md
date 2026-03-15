@@ -20,7 +20,7 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 8 | Function Parameters & Caesar Cipher | Caesar Cipher | ✅ | functions with params, modulo wrapping, encode/decode |
 | 9 | Dictionaries, Nesting and the Secret Auction | Secret Auction | ✅ | dicts, iteration, finding max value |
 | 10 | Functions with Outputs | Calculator | ✅ | return values, functions as dict values, recursion |
-| 11 | | | | |
+| 11 | Blackjack Capstone Project | Blackjack | ✅ | functions, while loops, game logic, input control flow, edge case handling |
 | 12 | | | | |
 | 13 | | | | |
 | 14 | | | | |

@@ -21,7 +21,7 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 9 | Dictionaries, Nesting and the Secret Auction | Secret Auction | ✅ | dicts, iteration, finding max value |
 | 10 | Functions with Outputs | Calculator | ✅ | return values, functions as dict values, recursion |
 | 11 | Blackjack Capstone Project | Blackjack | ✅ | functions, while loops, game logic, input control flow, edge case handling |
-| 12 | | | | |
+| 12 | Scope & Number Guessing Game | Number Guessing Game | ✅ | scope, functions, game logic, difficulty modes |
 | 13 | | | | |
 | 14 | | | | |
 | 15 | | | | |

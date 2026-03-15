@@ -26,6 +26,22 @@ def hand_info(player, computer):
     print(f"Your cards: {player}, your score: {sum(player)}")
     print(f"Computer's hand: {computer[0]}")
 
+def compare_score(p_score, c_score):
+    if c_score == 21:
+        print("You lose! Computer got a blackjack!")
+    elif p_score == 21:
+        print("You win! You got a blackjack!")
+    elif c_score > 21:
+        print("You win! Computer went over")
+    elif p_score > 21:
+        print("You lose!, You went over")
+    elif c_score > p_score:
+        print("You lose! Computer has a higher score")
+    elif c_score < p_score:
+        print("You win!, You have a higher score")
+    elif c_score == p_score:
+        print("Draw!")
+
 def play_game():
     player, computer, p_score, c_score, game_over = game_start()
     while not game_over:
@@ -46,21 +62,8 @@ def play_game():
 
     print(f"Your final hand: {player}, final score: {p_score}")
     print(f"Computer's final hand: {computer}, final score: {c_score}")
+    compare_score(p_score, c_score)
 
-    if c_score == 21:
-        print("You lose! Computer got a blackjack!")
-    elif p_score == 21:
-        print("You win! You got a blackjack!")
-    elif c_score > 21:
-        print("You win!, computer went over")
-    elif p_score > 21:
-        print("You lose!, you went over")
-    elif c_score > p_score:
-        print("You lose!, computer has a higher score")
-    elif c_score < p_score:
-        print("You win!, you have a higher score")
-    elif c_score == p_score:
-        print("Draw!")
 
 while input("Do you want to play a game of blackjack? (Y/N): ").lower() == "y":
     play_game()

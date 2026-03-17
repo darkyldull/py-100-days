@@ -26,6 +26,12 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 14 | Higher or Lower Game | Higher or Lower | ✅ | data sets, comparison logic, score tracking |
 | 15 | Local Dev Environment Setup & Coffee Machine | Coffee Machine | ✅ | first intermediate day, OOP thinking, flow control with continue/break, float precision |
 
+| 16 | Object Oriented Programming | OOP Coffee Machine | ✅ | classes, instantiation, using premade classes, PascalCase convention |
+| 17 | | | | |
+| 18 | | | | |
+| 19 | | | | |
+| 20 | | | | |
+
 ## Notes
 
 - Prior Python experience means some early days may go faster — fine to do multiple days in one sitting

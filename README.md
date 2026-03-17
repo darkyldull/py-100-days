@@ -24,7 +24,7 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 12 | Scope & Number Guessing Game | Number Guessing Game | ✅ | scope, functions, game logic, difficulty modes |
 | 13 | Debugging | Exercises | ✅ | no project, debugging techniques and exercises on Udemy |
 | 14 | Higher or Lower Game | Higher or Lower | ✅ | data sets, comparison logic, score tracking |
-| 15 | | | | |
+| 15 | Local Dev Environment Setup & Coffee Machine | Coffee Machine | ✅ | first intermediate day, OOP thinking, flow control with continue/break, float precision |
 
 ## Notes
 

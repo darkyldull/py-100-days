@@ -107,20 +107,3 @@ while not user_order:
     print(f"Enjoy your {user_report}!")
 
 
-
-
-
-
-# user_report = input("What woud you like? (espresso/latter/cappuccino) or report to check status")
-# coffee_order(user_report)
-# quarters = int(input("How many quarters? "))
-# dimes = int(input("How many dimes? "))
-# nickels = int(input("How many nickles? "))
-# pennies = int(input("How many pennies? "))
-# user_money = calculate_money(quarters, dimes, nickels, pennies)
-# check_cost(user_report, user_money)
-# update_coins(quarters, dimes, nickels, pennies)
-# print(count_coins)
-# update_resources(user_report, user_money)
-# print(resources)
-

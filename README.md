@@ -28,7 +28,7 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 
 | 16 | Object Oriented Programming | OOP Coffee Machine | ✅ | classes, instantiation, using premade classes, PascalCase convention |
 | 17 | The Quiz Project & Benefits of OOP | Quiz Game | ✅ | OOP design, class separation, Question/QuizBrain classes |
-| 18 | | | | |
+| 18 | Turtle & GUI | Turtle Graphics | ✅ | colormode, dot painting, random walk, colorgram, turtle module, penup/pendown |
 | 19 | | | | |
 | 20 | | | | |
 

@@ -25,14 +25,13 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 13 | Debugging | Exercises | ✅ | no project, debugging techniques and exercises on Udemy |
 | 14 | Higher or Lower Game | Higher or Lower | ✅ | data sets, comparison logic, score tracking |
 | 15 | Local Dev Environment Setup & Coffee Machine | Coffee Machine | ✅ | first intermediate day, OOP thinking, flow control with continue/break, float precision |
-
 | 16 | Object Oriented Programming | OOP Coffee Machine | ✅ | classes, instantiation, using premade classes, PascalCase convention |
 | 17 | The Quiz Project & Benefits of OOP | Quiz Game | ✅ | OOP design, class separation, Question/QuizBrain classes |
 | 18 | Turtle & GUI | Turtle Graphics | ✅ | colormode, dot painting, random walk, colorgram, turtle module, penup/pendown |
 | 19 | Instances, State and Higher Order Functions | Turtle Race + Etch a Sketch | ✅ | higher order functions, onkeypress, state management, multiple instances |
 | 20 | Build the Snake Game Part 1: Animation & Coordinates | Snake Game | ✅ | OOP snake class, movement logic, heading validation, list-based segment tracking |
 | 21 | Build the Snake Game Part 2: Inheritance & List Slicing | Snake Game | ✅ | inheritance, subclasses, list slicing, snake game complete |
-| 22 | Build Pong: The Famous Arcade Game | Pong | 🔄 | |
+| 22 | Build Pong: The Famous Arcade Game | Pong | ✅ | OOP, multiple turtle instances, collision detection, scoreboard, paddle and ball mechanics |
 
 ## Notes
 

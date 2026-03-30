@@ -32,6 +32,7 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 20 | Build the Snake Game Part 1: Animation & Coordinates | Snake Game | ✅ | OOP snake class, movement logic, heading validation, list-based segment tracking |
 | 21 | Build the Snake Game Part 2: Inheritance & List Slicing | Snake Game | ✅ | inheritance, subclasses, list slicing, snake game complete |
 | 22 | Build Pong: The Famous Arcade Game | Pong | ✅ | OOP, multiple turtle instances, collision detection, scoreboard, paddle and ball mechanics |
+| 23 | The Turtle Crossing Capstone Project | Turtle Crossing | ✅ | capstone project, car manager class, collision detection, level progression |
 
 ## Notes
 

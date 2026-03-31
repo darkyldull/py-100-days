@@ -33,6 +33,7 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 21 | Build the Snake Game Part 2: Inheritance & List Slicing | Snake Game | ✅ | inheritance, subclasses, list slicing, snake game complete |
 | 22 | Build Pong: The Famous Arcade Game | Pong | ✅ | OOP, multiple turtle instances, collision detection, scoreboard, paddle and ball mechanics |
 | 23 | The Turtle Crossing Capstone Project | Turtle Crossing | ✅ | capstone project, car manager class, collision detection, level progression |
+| 24 | Files, Directories and Paths | Mail Merge Challenge | ✅ | file read/write, readlines, strip, replace, writing output files per name |
 
 ## Notes
 

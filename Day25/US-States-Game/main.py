@@ -48,7 +48,3 @@ while len(guessed_states) != count_of_states:
             draw_name(s)
             guessed_states.append(answer_text.title())
 
-    
-
-
-screen.exitonclick()

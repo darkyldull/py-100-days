@@ -35,6 +35,7 @@ Tracking my progress through Angela Yu's [100 Days of Code: The Complete Python 
 | 23 | The Turtle Crossing Capstone Project | Turtle Crossing | ✅ | capstone project, car manager class, collision detection, level progression |
 | 24 | Files, Directories and Paths | Mail Merge Challenge | ✅ | file read/write, readlines, strip, replace, writing output files per name |
 | 25 | Working with CSV Data and the Pandas Library | U.S. States Game | ✅ | pandas, read_csv, DataFrame filtering, .values, .iloc, turtle + data integration |
+| 26 | List Comprehension and the NATO Alphabet | NATO Alphabet | ✅ | list comprehension, dictionary comprehension, iterrows, pandas + CSV |
 
 ## Notes
 
